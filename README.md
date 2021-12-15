@@ -1,8 +1,8 @@
-- 👋 Hi, I’m @carguygrammer
-- 👀 I’m interested in technology, music, learning more programming skills, car enthusiast, anything that has to do with creating and bringing ideas to life.
-- 🌱 I’m currently taking the Web Developement bootcamp 2021 course at Udemy
-- 💞️ I’m looking to learn and take advice to succeed in the industry to become a web developer.
-- 📫 How to reach me; adrian.le1995@gmail.com
+Hello, nice to meet you! I’m @carguygrammer
+I’m fascinated with technology, there's so much that can be done with a bit of imagination. I love exploring new programming skills, I have a love for cars, working on them and customizing, and anything that has to do with creating and bringing ideas to life.
+I’m currently taking "the Web Developement bootcamp 2021" course at Udemy and will eventually persue a computer science degree.
+I’m looking to learn and take part of projects and ultimately to succeed as a web developer.
+If you like to reach out to me my email is, adrian.le1995@gmail.com
 
 <!---
 carguygrammer/carguygrammer is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
